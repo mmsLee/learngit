@@ -1,1 +1,1 @@
-xinhaolei a    dongxidoumeiyoule
+Creating a new branch is quick.
